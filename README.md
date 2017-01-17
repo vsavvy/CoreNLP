@@ -1,2 +1,2 @@
 # CoreNLP
-A  brief introduction about Stanford CoreNLP using R
+ Introduction to Stanford CoreNLP using R
